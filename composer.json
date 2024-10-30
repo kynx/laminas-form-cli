@@ -27,7 +27,7 @@
     }
   },
   "require": {
-    "php": "~8.2 || ~8.3",
+    "php": "~8.2.0 || ~8.3.0 || ~8.4.0",
     "composer-runtime-api": "^2.2",
     "laminas/laminas-cli": "^1.10",
     "laminas/laminas-form": "^3.19",
@@ -40,7 +40,7 @@
     "laminas/laminas-servicemanager": "^3.22",
     "laminas/laminas-uri": "^2.11",
     "phpunit/phpunit": "^10.5",
-    "psalm/plugin-phpunit": "^0.18.4",
+    "psalm/plugin-phpunit": "^0.19",
     "psr/http-client": "^1.0",
     "psr/http-factory": "^1.0",
     "roave/security-advisories": "dev-master",
